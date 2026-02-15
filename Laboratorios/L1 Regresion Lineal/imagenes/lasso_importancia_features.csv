@@ -1,0 +1,20 @@
+Feature,Coeficiente,Coeficiente_Abs,Seleccionada
+Diabetes Status,1.125986082566535,1.125986082566535,True
+Blood Pressure Category,0.4596167660973741,0.4596167660973741,True
+BMI,0.41313367555835223,0.41313367555835223,True
+Systolic BP,0.11650252257884133,0.11650252257884133,True
+Total Cholesterol (mg/dL),0.05372505140586058,0.05372505140586058,True
+Sex,-0.0,0.0,False
+Age,-0.0,0.0,False
+Weight (kg),-0.0,0.0,False
+HDL (mg/dL),-0.0,0.0,False
+Abdominal Circumference (cm),-0.0,0.0,False
+Height (m),-0.0,0.0,False
+Smoking Status,0.0,0.0,False
+Fasting Blood Sugar (mg/dL),0.0,0.0,False
+Physical Activity Level,0.0,0.0,False
+Family History of CVD,-0.0,0.0,False
+Waist-to-Height Ratio,-0.0,0.0,False
+Height (cm),-0.0,0.0,False
+Estimated LDL (mg/dL),0.0,0.0,False
+Diastolic BP,0.0,0.0,False
